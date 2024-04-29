@@ -1,7 +1,7 @@
 cask "bili-message" do
-  version "1.2.8"
+  version "1.2.9"
   url "https://github.com/orangelckc/bili-message/releases/latest/download/bilibili._x64.app.tar.gz"
-  sha256 "6cc67dda49493cf4515c1657b7c60d96d22e486de801ad6010164f95d663cc48"
+  sha256 "fd403bc7aaa7ba32d881f36a6bdff44530844b1bc49e5c1e0ea8d107639ee808"
   name "bili-message"
   desc "bilibili简单弹幕机"
   homepage "https://github.com/orangelckc/bili-message"
